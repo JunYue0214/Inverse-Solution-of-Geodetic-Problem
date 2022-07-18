@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "大地解算", "大地解算\大地解算.vcproj", "{13E668DA-BD94-4F8C-8682-83BE64F7926F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13E668DA-BD94-4F8C-8682-83BE64F7926F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{13E668DA-BD94-4F8C-8682-83BE64F7926F}.Debug|Win32.Build.0 = Debug|Win32
+		{13E668DA-BD94-4F8C-8682-83BE64F7926F}.Release|Win32.ActiveCfg = Release|Win32
+		{13E668DA-BD94-4F8C-8682-83BE64F7926F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
