@@ -1,1 +1,7 @@
-# Inverse-Solution-of-Geodetic-Problem
+#Geodetic Problem 
+
+the determination of the relative position of points on the earth’s surface. It is divided into direct and reverse problems.
+
+The direct geodetic problem is the calculation of geodetic coordinates—the latitudes and longitudes of several points lying on the geoid—by the coordinates of another point and the length and azimuth of the geodetic line connecting these points. The reverse geodetic problem is the determination of the length and azimuth of the geodetic line between two points by the geodetic coordinates of these two points on the geoid. Various methods and formulas in geodesy are applicable, depending on the length of the geodetic line connecting the points under consideration. Tables are compiled according to the size of the accepted geoid; these tables facilitate the solution of the geodetic problem and are calculated for the use of a specific system of formulas.
+
+The geodetic problem in both its aspects arises with the working out of the triangulation; it also arises in all those cases in which it is necessary to determine the relative position of two points by the length and bearing of the line connecting them or to determine the distance and bearing between these points by their geodetic coordinates. In a number of cases the geodetic problem is solved in spatial right-angle coordinates by analytic geometric formulas in space. In these cases, instead of the length and azimuth of the geodetic line connecting two points, the length and spatial components of the bearing of a straight line between these points are used.
